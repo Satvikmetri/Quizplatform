@@ -1,0 +1,20 @@
+body {
+    background-color: #f0f8ff;
+}
+
+.quiz-question {
+    margin-bottom: 20px;
+}
+
+.quiz-options button {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#score-display {
+    text-align: center;
+}
+
+#progress-bar {
+    height: 20px;
+}
